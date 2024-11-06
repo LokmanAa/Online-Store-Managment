@@ -1,6 +1,6 @@
 Data Analysis for BottleNeck Wine Merchant
 
-In this project, you are tasked with reconciling sales and inventory data from two separate sources to help BottleNeck optimize its operations and better understand its online sales performance. The goal is to bridge the gap between the ERP system and the e-commerce platform, analyze the financial performance, and detect any pricing inconsistencies.
+In this project, I am tasked with reconciling sales and inventory data from two separate sources to help BottleNeck optimize its operations and better understand its online sales performance. The goal is to bridge the gap between the ERP system and the e-commerce platform, analyze the financial performance, and detect any pricing inconsistencies.
  
 Key Skills Acquired:
 
